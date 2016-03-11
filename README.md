@@ -1,1 +1,1 @@
-# CompareTwoString
+#此方法能返回两个字符串的相似度
