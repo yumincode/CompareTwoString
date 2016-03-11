@@ -49,7 +49,6 @@
     }
     return 100.0 - 100.0*matrix[n][m]/testString.length;
 }
-
 - (void)viewDidLoad {
     [super viewDidLoad];
     float percent=[self likePercent:@"helloworld" AndTargetString:@"helloWorld"];
